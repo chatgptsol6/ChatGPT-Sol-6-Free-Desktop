@@ -1,0 +1,3 @@
+/* rev-f2a91c-20260930 */
+Usage.txt
+1.05M context, 128K max output
